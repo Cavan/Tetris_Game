@@ -4,5 +4,5 @@ Created this game by following a tutorial by javidx9 on YouTube. https://www.you
 # Purpose
 To gain a better understanding of game development, and implementing the mathematics necessary into the game.
 
-#Demo
+# Demo
 
