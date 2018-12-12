@@ -238,6 +238,8 @@ int main()
 					}
 				}
 			}
+			
+			vLines.clear();
 		}
 
 		//Display frame.
